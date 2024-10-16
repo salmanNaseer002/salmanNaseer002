@@ -1,5 +1,3 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ffull-stack-developer-background&psig=AOvVaw3TBp0avRP30A8kbTtU6nLP&ust=1729166988207000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCI3pLvkokDFQAAAAAdAAAAABAE
-
 # Hello, I'm Sulman Naseer! 👋
 
 As a seasoned Software Engineer with a rich history of working on large-scale projects, I bring a depth of expertise and a commitment to excellence in every endeavour. My journey in software development is marked by a passion for creating robust, scalable solutions that drive business success and technological innovation.
